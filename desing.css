@@ -11,7 +11,7 @@ body,html{
 
 .Titulo{
     text-align: center;
-    color: rgb(126, 122, 122);
+    color: rgb(246, 242, 242);
     text-shadow: rgb(54, 53, 53) 1px 3px 1px;
     background: linear-gradient(#facc22, #f83600);
 }
@@ -46,7 +46,7 @@ body,html{
     width: 600px;
     height: 100%;
     background: linear-gradient(#facc22, #f83600);
-    animation: animate 5s linear infinite;
+    animation: animate 2s linear infinite;
 }
 
 @keyframes animate{
@@ -97,13 +97,13 @@ body,html{
     cursor: pointer;
     border: solid 2px;
     border-radius: 15px;
-    color: white;
+    color: rgb(230, 217, 217);
     background: rgb(17, 13, 13);
 }
 
 /*Animação do botão após passar o mouse*/
 
 .botao button:hover{
-    background-color: rgb(118, 122, 122);
+    background-color: rgb(128, 129, 129);
 }
 

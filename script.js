@@ -19,12 +19,6 @@ Lembrando que quando a primeira condicionar for iniciada e após isso, não ser�
 
 2º - > Quando o usuário clicar em "Pausar" a função pausar será ativada e Sessará a contágem,
 
-
-
-
-
-
-
 */
 
 function iniciar() {
